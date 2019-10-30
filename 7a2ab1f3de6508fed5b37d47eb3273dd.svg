@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="259px" height="70px" viewBox="0 0 259 70" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Moruy Cyber Team</title>
+    <desc>Moruy Cyber Team</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group" transform="translate(4.000000, -24.000000)">
+            <text id="oruy" font-family="LucidaHandwriting-Italic, Lucida Handwriting" font-size="72" font-style="italic" font-weight="normal" fill="#444B55">
+                <tspan x="63" y="74">oruy</tspan>
+            </text>
+            <path d="M9.52334403,37.9225226 C-18.5794164,84.7168276 24.4638794,4.55312382 24.4638794,44.6349757 C24.4638794,71.3562103 37.3092529,69.1187259 63,37.9225226 L63,90" id="Path" stroke="#444B55" stroke-width="8"></path>
+            <path d="M66.3515625,28.75 C60.6237245,31.1716429 65.734375,34.6788117 65.734375,29.4414062" id="Path-2" stroke="#444B55" stroke-width="9"></path>
+        </g>
+    </g>
+</svg>
